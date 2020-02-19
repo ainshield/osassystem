@@ -1,0 +1,27 @@
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form1.resources
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.MainForm.resources
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.Cache
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form2.resources
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.ABOUT.resources
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.ADDSTUDENT.resources
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.VIEW.resources
+C:\Users\PAUL\Documents\SharpDevelop Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.EDIT.resources
+C:\Users\User\source\repos\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\User\source\repos\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\User\source\repos\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.ABOUT.resources
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.ADDSTUDENT.resources
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.EDIT.resources
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form1.resources
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form2.resources
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.VIEW.resources
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\User\source\repos\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
